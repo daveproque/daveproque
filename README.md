@@ -3,7 +3,7 @@
 <h2>👨‍💻 Networking & Active Directory Projects:</h2>
 
 - <b>Small Business Network (VLANs + Routing + DHCP)</b>
-  - [VLAN segmentation, Switch configuration, Inter-VLAN routing, DHCP](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VLAN segmentation, Switch configuration, Inter-VLAN routing, DHCP](https://github.com/daveproque/Network-Admin-Projects)
 - <b>Adding Security to Small Business Network through ACL's</b>
   - [Implement extended ACLs to restrict Guest VLAN access, Enforce least-privilege network access, Prevent lateral movement from untrusted VLANs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
