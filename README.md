@@ -8,9 +8,9 @@
   - [Inter-VLAN routing](https://github.com/daveproque/Network-Admin-Projects)
   - [DHCP Implementation](https://github.com/daveproque/Network-Admin-Projects)
 - <b>ADDING SECURITY TO SMALL BUSINESS NETWORK THROUGH ACL's</b>
-  - [Implement extended ACLs to restrict Guest VLAN access](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Enforce least-privilege network access](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Prevent lateral movement from untrusted VLANs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
+  - [Implement extended ACLs to restrict Guest VLAN access](https://github.com/daveproque/Network-Security-Project/tree/main))
+  - [Enforce least-privilege network access](https://github.com/daveproque/Network-Security-Project/tree/main)
+  - [Prevent lateral movement from untrusted VLANs](https://github.com/daveproque/Network-Security-Project/tree/main)  
 - <b>LAYER 2 SECURITY: PORT SECURITY + DHCP SNOOPING + DAI</b>
   - [Protection against rogue devices](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Protection against rogue DHCP servers](https://github.com/joshmadakor1/Jwipe.PowerShell)
