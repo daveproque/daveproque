@@ -6,14 +6,14 @@
   - [VLAN segmentation](https://github.com/daveproque/Network-Admin-Projects)
   - [Trunking](https://github.com/daveproque/Network-Admin-Projects)
   - [Inter-VLAN routing](https://github.com/daveproque/Network-Admin-Projects)
-- <b>ADDING SECURITY TO SMALL BUSINESS NETWORK THROUGH ACL's</b>
-  - [Implement extended ACLs to restrict Guest VLAN access](https://github.com/daveproque/Network-Security-Project/tree/main)
-  - [Enforce least-privilege network access](https://github.com/daveproque/Network-Security-Project/tree/main)
-  - [Prevent lateral movement from untrusted VLANs](https://github.com/daveproque/Network-Security-Project/tree/main)  
-- <b>Multi-Site Network with OSPF, DHCP & NAT</b>
+- <b>MULTI-SITE NETWORK WITH OSPF, DHCP & NAT</b>
   - [OSPF (Open Shortest Path First)](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
   - [ DHCP](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
   - [NAT Overload (PAT)](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
+- <b>PROJECT 3</b>
+  - [Implement extended ACLs to restrict Guest VLAN access](https://github.com/daveproque/Network-Security-Project/tree/main)
+  - [Enforce least-privilege network access](https://github.com/daveproque/Network-Security-Project/tree/main)
+  - [Prevent lateral movement from untrusted VLANs](https://github.com/daveproque/Network-Security-Project/tree/main)  
     
 <h2>👨‍💻 Active Directory Projects:</h2>
 
