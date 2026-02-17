@@ -2,11 +2,10 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- <b>SMALL BUSINESS NETWORK(VLANs + ROUTING + DHCP)</b>
+- <b>SMALL OFFICE NETWORK WITH VLANs & INTER-VLAN ROUTING (Packet Tracer)</b>
   - [VLAN segmentation](https://github.com/daveproque/Network-Admin-Projects)
-  - [Switch configuration](https://github.com/daveproque/Network-Admin-Projects)
+  - [Trunking](https://github.com/daveproque/Network-Admin-Projects)
   - [Inter-VLAN routing](https://github.com/daveproque/Network-Admin-Projects)
-  - [DHCP Implementation](https://github.com/daveproque/Network-Admin-Projects)
 - <b>ADDING SECURITY TO SMALL BUSINESS NETWORK THROUGH ACL's</b>
   - [Implement extended ACLs to restrict Guest VLAN access](https://github.com/daveproque/Network-Security-Project/tree/main)
   - [Enforce least-privilege network access](https://github.com/daveproque/Network-Security-Project/tree/main)
