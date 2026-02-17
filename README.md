@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/daveproque">Network Admin</a>, <a href="https://www.linkedin.com/in/david-roque-0575b5179">IT Tech Support Specialist</a> 
+<h1>Hi, I'm David! <br/><a href="https://github.com/daveproque"><a href="https://www.linkedin.com/in/david-roque-0575b5179">IT Tech Support Specialist</a> 
 
 <h2>👨‍💻 Networking Projects:</h2>
 
@@ -10,13 +10,7 @@
   - [OSPF (Open Shortest Path First)](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
   - [ DHCP](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
   - [NAT Overload (PAT)](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
-- <b>PROJECT 3</b>
-  - [Implement extended ACLs to restrict Guest VLAN access](https://github.com/daveproque/Network-Security-Project/tree/main)
-  - [Enforce least-privilege network access](https://github.com/daveproque/Network-Security-Project/tree/main)
-  - [Prevent lateral movement from untrusted VLANs](https://github.com/daveproque/Network-Security-Project/tree/main)  
     
-<h2>👨‍💻 Active Directory Projects:</h2>
-
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Google IT Support Professional</b>
