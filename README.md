@@ -12,10 +12,10 @@
   - [Enforce least-privilege network access](https://github.com/daveproque/Network-Security-Project/tree/main)
   - [Prevent lateral movement from untrusted VLANs](https://github.com/daveproque/Network-Security-Project/tree/main)  
 - <b>LAYER 2 SECURITY: PORT SECURITY + DHCP SNOOPING + DAI</b>
-  - [Protection against rogue devices](comming soon)
-  - [Protection against rogue DHCP servers](coming soon)
-  - [Protection against ARP spoofing](coming soon)
-  - [Understanding of trusted vs untrusted ports](coming soon)
+  - [Protection against rogue devices](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
+  - [Protection against rogue DHCP servers](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
+  - [Protection against ARP spoofing](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
+  - [Understanding of trusted vs untrusted ports](https://github.com/daveproque/Multi-Site-Network-with-OSPF-DHCP-NAT)
 
 <h2>👨‍💻 Active Directory Projects:</h2>
 
