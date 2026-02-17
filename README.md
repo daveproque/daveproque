@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/daveproque">Network Admin</a>, <a href="https://www.linkedin.com/in/david-roque-0575b5179">IT Tech Support Specialist</a>, 
+<h1>Hi, I'm David! <br/><a href="https://github.com/daveproque">Network Admin</a>, <a href="https://www.linkedin.com/in/david-roque-0575b5179">IT Tech Support Specialist</a> 
 
 <h2>👨‍💻 Networking Projects:</h2>
 
