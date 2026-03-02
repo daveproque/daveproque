@@ -17,7 +17,8 @@
   - March 2025
 - <b>CompTIA Network+</b>
   - September 2025</b></i>
-
+- <b>CompTIA Security+</b>
+  - February 2026</b></i>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
